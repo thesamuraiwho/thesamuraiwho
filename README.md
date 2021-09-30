@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesamuraiwho!
-- 👀 I’m interested in fullstack web development and AI/ML.
-- 🌱 I’m currently learning Pytorch, Numpy, Node, Flask, React.
+- 👀 I’m interested in web development and AI/ML.
+- 🌱 I’m currently learning Pytorch, Numpy, Node, React.
 - 💞️ I’m looking to collaborate on games, apps, and art.
 - 📫 You can reach me at @thesamuraiwho on twitter.
 
